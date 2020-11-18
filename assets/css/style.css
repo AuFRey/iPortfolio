@@ -213,7 +213,6 @@ h1, h2, h3, h4, h5, h6 {
   height: 100vh;
   background: url("../img/Photo-fond.jpg") top center;
   background-size: cover;
-  background-repeat: no-repeat;
   background-size: 73%
 }
 
